@@ -29,6 +29,6 @@
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiopsantos.dev@gmail.com)
 
 
-![Snake animation](https://github.com/SenhorKaioh/senhokaioh/blob/output/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=28&descAlign=27&textBg=false&reversal=true&section=footer"/>
