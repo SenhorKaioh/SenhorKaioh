@@ -1,16 +1,34 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=28&descAlign=27&textBg=false&reversal=true&section=header"/>
 
-<!--
-**SenhorKaioh/SenhorKaioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá!! Eu sou o Caio Pereira 🤙
 
-Here are some ideas to get you started:
+### 👨🏾‍💻Ferramentas e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,mysql&theme=light)](https://skillicons.dev)
+
+</div><br>
+      
+### 👨🏾‍💻Estudando
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,nestjs,react,bootstrap,&theme=light)](https://skillicons.dev)
+
+
+<div>
+<a href="https://github.com/SenhorKaioh">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorkaioh&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=senhorkaioh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Contato
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-pereira-dos-santos-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/senhor.kaioh/)
+[![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiopsantos.dev@gmail.com)
+
+
+![Snake animation](https://github.com/SenhorKaioh/SenhoKaioh/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=28&descAlign=27&textBg=false&reversal=true&section=footer"/>
