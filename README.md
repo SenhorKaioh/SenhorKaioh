@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=28&descAlign=27&textBg=false&reversal=true&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1C768F&section=header"/>
 
 ### Olá!! Eu sou o Caio Pereira 🤙
 
@@ -31,4 +31,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=28&descAlign=27&textBg=false&reversal=true&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1C768F&section=footer"/>
